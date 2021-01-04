@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525688510867",
+    "project_id": "authentication-b53a8",
+    "storage_bucket": "authentication-b53a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525688510867:android:5e81826ed43db76806f066",
+        "android_client_info": {
+          "package_name": "com.task.sevenbitstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525688510867-kr6pmoiuu1sheub60ugs3im96n2o655d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcb3QMIPElVWcOu2pvGLX5B2czTzZbfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525688510867-kr6pmoiuu1sheub60ugs3im96n2o655d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
